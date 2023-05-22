@@ -1,1 +1,1 @@
-# Digital Image Processing Lesson  Exercises 
+# Digital Image Processing Course Exercises 
